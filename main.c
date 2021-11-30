@@ -4,7 +4,6 @@
 
 int main()
 {
-
     char c;
     scanf(" %c", &c);
 
@@ -20,11 +19,11 @@ int main()
             char a = Func_B();
             if (a != 0)
             {
-                printf("TRUE");
+                printf("True");
             }
             else
             {
-                printf("FALSE");
+                printf("False");
             }
             printf("\n");
         }
