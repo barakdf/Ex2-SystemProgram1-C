@@ -43,4 +43,5 @@ int main()
 
         scanf(" %c", &c);
     }
+    printf("\n");
 }
